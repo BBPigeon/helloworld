@@ -1,6 +1,3 @@
 3rd
-<<<<<<< HEAD
 Modified 3rd
-=======
 third
->>>>>>> 2f09bdc51a4fdfb3d8935ed0b2020fd99c3af8dc
